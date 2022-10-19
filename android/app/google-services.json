@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63077418882",
+    "project_id": "awesome-notification-with-fcm",
+    "storage_bucket": "awesome-notification-with-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63077418882:android:27d081b6f55c77c4d8f19b",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification_with_cloud_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63077418882-vin5q6cf9c41pqc3sfr03ekihu1oj50g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqywuBKSjrSpsGge4LyTTTkznMDBv6lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63077418882-vin5q6cf9c41pqc3sfr03ekihu1oj50g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
